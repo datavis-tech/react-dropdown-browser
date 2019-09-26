@@ -1,5 +1,7 @@
-react-dropdown
+react-dropdown-browser
 ==============
+
+**Note** This is a minimally modified fork of [fraserxu/react-dropdown](https://github.com/fraserxu/react-dropdown), with the addition of a browser build, so that the library can be used from a CDN. This fork will become deprecated if this pull request is merged: [Add browser build #174](https://github.com/fraserxu/react-dropdown/pull/174). Content below is the original README. -- Curran
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
